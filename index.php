@@ -65,7 +65,7 @@ session_start();
             <input type="submit" value="connection" name="button_con">
             <p class="link">Vous n'avez pas de compte ? <a href="inscription.php">Creez un compte</a></p>
     </form>
-    
+    <p>welcome</p>
 
 </body>
 </html>
